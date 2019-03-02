@@ -1,0 +1,6 @@
+"STARTUP.obj",
+"main.obj",
+"lcd.obj",
+"temp.obj" 
+TO "pro" 
+CODE( 0X0000-0X0FFF )
